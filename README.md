@@ -1,0 +1,1 @@
+Quirex is a full-featured real estate platform that allows users to explore, search, list, and manage properties for rent or sale. Designed with modern UI/UX and built using the MERN (MongoDB, Express, React, Node.js) stack, Quirex bridges the gap between buyers, sellers, and agents with a seamless experience.
